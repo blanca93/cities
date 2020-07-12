@@ -1,5 +1,9 @@
 # CitiesApp
 
+Application to:
+Display a home page on the root path ("/") with the message "Welcome to Eurovision Services"
+Display a cities page on the path ("/cities") with a table paginable with the list of cities (id, name)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.11.
 
 ## Development server
